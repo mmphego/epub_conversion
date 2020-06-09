@@ -31,6 +31,7 @@ setup(
     ],
     setup_requires=[],
     install_requires=[
+        'xml_cleaner',
         'bz2file',
         'epub',
         'ciseau'
